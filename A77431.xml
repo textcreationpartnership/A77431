@@ -1,0 +1,1230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief discourse of the present miseries of the kingdome: declaring by what practises the people of England have been deluded, and seduced into slavery, and how they have been continued therein, and by what meanes they may shake off that bondage, they are now enthraled under. / Written by a lover of his country, for the good of all such who are not contented to be slaves, but desire to live free-men.</title>
+            <author>Lover of his country.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77431</idno>
+            <idno type="STC">Wing B4583</idno>
+            <idno type="STC">Thomason E467_24</idno>
+            <idno type="STC">ESTC R205268</idno>
+            <idno type="EEBO-CITATION">99864685</idno>
+            <idno type="PROQUEST">99864685</idno>
+            <idno type="VID">116917</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116917)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E467[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief discourse of the present miseries of the kingdome: declaring by what practises the people of England have been deluded, and seduced into slavery, and how they have been continued therein, and by what meanes they may shake off that bondage, they are now enthraled under. / Written by a lover of his country, for the good of all such who are not contented to be slaves, but desire to live free-men.</title>
+                  <author>Lover of his country.</author>
+               </titleStmt>
+               <extent>[2], 28, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In favor of the restoration of royal authority.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 13th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monarchy --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116917:1" rendition="simple:additions"/>
+            <p>A BRIEF DISCOVRSE OF THE PRESENT <hi>MISERIES</hi> OF THE
+KINGDOME: Declaring by what <hi>practiſes</hi> the <hi>people</hi> of
+<hi>England</hi> have been <hi>deluded,</hi> and <hi>ſeduced</hi> into
+<hi>Slavery,</hi> and how they have been <hi>continued</hi> therein, and by
+what meanes they may <hi>ſhake off</hi> that <hi>bon<g ref="char:EOLhyphen"/>dage,</hi> they are now
+<hi>enthraled</hi> under.</p>
+            <p>Written by a lover of his <hi>Country,</hi> for the good of all
+ſuch who are not contented to be <hi>ſlaves,</hi> but deſire to live
+<hi>Free-men.</hi>
+            </p>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116917:2"/>
+            <pb n="1" facs="tcp:116917:2"/>
+            <head>A briefe diſcourſe of the preſent <hi>Miſeries</hi> of
+the <hi>Kingdome, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He ſad and deplorable condition of this un<g ref="char:EOLhyphen"/>happy Kingdome, is
+remarkeably evident to all intelligent perſons of all degrees, who have any
+ſhare or intereſt in the Common-wealth; and by all thoſe who are honeſt
+as much lamented. Yet every man is not ſenſible by what practices and
+endeavours, our <hi>Lawes</hi> have been ſubvert<g ref="char:EOLhyphen"/>ed, or who have been the
+Authors, and contrivers of the King<g ref="char:EOLhyphen"/>domes miſerie: or at leaſt all men will
+not ſeeme to underſtand, who have blowne the bellowes to kindle this
+<hi>unnaturall War,</hi> which hath almoſt waſted and conſumed (although
+not in their perſons, yet in their Eſtates) all the chief
+<hi>Nobility,</hi> and <hi>Gentry</hi> of the Land. I have therefore out of my
+zeale, to rectifie thoſe un<g ref="char:EOLhyphen"/>derſtandings, who are not wilfully blinded by
+their owne <hi>igno<g ref="char:EOLhyphen"/>rance</hi> and <hi>folly,</hi> written this enſuing
+narrative; wherein is diſco<g ref="char:EOLhyphen"/>vered, how, and by what practiſes the Subjects
+of <hi>England</hi> have been ſeduced, and made the unhappy inſtruments, to
+contribute to their owne undoing: by which they may eaſily diſcerne, who
+have been the Authors, and contrivers of their miſerie: and may hereby if
+they become ſenſible of their paſt errours, finde a meanes to recover
+their loſt <hi>Liberty,</hi> and redeeme themſelves from the
+<hi>Slavery</hi> and <hi>Thraldome</hi> they have ſo long endured.</p>
+            <p>
+               <pb n="2" facs="tcp:116917:3"/>No man is ignorant in how happy a condition this
+Kingdome was, before it was deſtroyed by this <hi>unhappy Parliament;</hi>
+neither am I ſo partiall to the foregoing times, but that I could diſcerne
+that there were faults then, for there was <hi>pride, ſloath,</hi> and
+<hi>covet<g ref="char:EOLhyphen"/>ouſneſſe</hi> in ſome of the <hi>Clergie, Bribery</hi> and
+<hi>corruption</hi> in ſome of the <hi>Judges, partiality</hi> and
+<hi>ſelfe-intereſts</hi> in many <hi>Magiſtrates,</hi> an aiming at an
+exorbitant power in the Court, managed to <hi>His Majeſties</hi>
+diſadvantage, by thoſe He imployed and truſted, who ſtudied their owne
+ends and profits, without regard to His Ma<g ref="char:EOLhyphen"/>jeſties <hi>Honour.</hi> Theſe
+were the perſonall crimes of men, which could not juſtly occaſion
+complaint againſt the whole frame and order of our ſetled conſtitution of
+Government, yet the offen<g ref="char:EOLhyphen"/>ces of theſe evill Miniſters, were accounted
+great grievances, and multiplied in their number, and aggravated in their
+nature, by thoſe <hi>Schiſmaticks,</hi> who could not make a rent and
+diviſion in the <hi>Church Government,</hi> to which they were enemies,
+becauſe they were curb'd and reſtrained by the <hi>Eccleſiaſticall</hi>
+power; &amp; hindred from introducing innovation into the Church, which they
+could not effect, unleſſe they firſt beget a diſtraction in the
+<hi>Civill Go<g ref="char:EOLhyphen"/>vernment.</hi> And therefore there was no preſſure put upon
+the peo<g ref="char:EOLhyphen"/>ple (and they counted all ſuch, whether legall, or illegall, if it
+con<g ref="char:EOLhyphen"/>cerned them in their purpoſes) but theſe <hi>Schiſmaticall</hi>
+people, preſently put themſelves in oppoſition againſt it, and by that
+gain'd an opinion amongſt the common ſort (who are ſtill of leaſt
+underſtanding) that thoſe men were the chief <hi>Patriots:</hi> beleeving
+according to their <hi>hypocriticall</hi> demenors, that they had no indi<g ref="char:EOLhyphen"/>rect
+ends, but aimed only at the good of the Common-wealth, and to maintaine the
+<hi>Laws</hi> and <hi>Liberties</hi> of the Subjects. Theſe men having by
+theſe ſubtile inſinuations, crept into the good opi<g ref="char:EOLhyphen"/>nion of the vulgar
+people, the <hi>Clergie</hi> and <hi>Laity</hi> of the ſame Sect, magnifying
+each the others integrity, and both deluding the igno<g ref="char:EOLhyphen"/>rant people, the one by
+an humble and feined <hi>piety,</hi> the other by pretending to a ſtrict
+obſervation of the <hi>Laws,</hi> in ſo much that the common people
+imagined that there was no way left to reco<g ref="char:EOLhyphen"/>ver the golden age, but by bringing
+theſe men into power and Authority, and to make them the directors, and
+Governours both in Church and State. Then was raiſed a generall complaint
+that all things were out of order, by reaſon we had no <hi>Parlia<g ref="char:EOLhyphen"/>ments</hi>
+               <pb n="3" facs="tcp:116917:3"/>called, but how to reduce <hi>His Majeſty</hi> to a
+neceſſity to call a <hi>Parliament,</hi> and to make that neceſſity
+ſuch, as that He might not be able to diſſolve that <hi>Parliament:</hi>
+this was the ſtudy and practice of theſe underminers of our happy and
+peaceable Government.</p>
+            <p>The people of <hi>England</hi> had been ſo long inur'd to Peace,
+and with it were growne ſo rich, that it was difficult to ſtir them up to
+any <hi>commotion</hi> or <hi>Rebellion:</hi> And therefore there muſt be
+ſome way found out by His Majeſties owne Inſtruments, and Miniſters of
+State to diſturbe the Kingdome; and no man was found ſo fit for this as the
+<hi>Arch-Biſhop</hi> of <hi>Canterbury,</hi> whoſe zeale to ad<g ref="char:EOLhyphen"/>vance the
+dignity of the <hi>Proteſtant Church</hi> within His Majeſties Dominions,
+by reducing it to an uniformity, and decency in Gods worſhip, and by
+endeavouring to increaſe the <hi>Wealth</hi> of it, that ſo the
+<hi>Clergie</hi> might not become contemptible, was cheriſt in theſe pious
+endeavours, and became ſo paſſionate in the purſu<g ref="char:EOLhyphen"/>ance thereof, being I
+am afraid a little tranſported with the va<g ref="char:EOLhyphen"/>nity of being ſtiled the
+<hi>author</hi> of ſo <hi>glorious</hi> a worke, that with<g ref="char:EOLhyphen"/>out mature
+conſideration he ſwallowed all propoſals, that he imagined might conduce
+to ſo good an end: And ſo became unfortunately engaged in the reforming of
+the <hi>Scottiſh Kirke,</hi> by endeavouring to conforme it to the
+<hi>Doctrine</hi> and <hi>Diſcipline</hi> of the <hi>Church</hi> of
+<hi>England.</hi> In this undertaking I am confident his <hi>Lordſhip</hi>
+had no end that aimed at any thing but <hi>Gods worſhip,</hi> but I have been
+on very good grounds aſcertain'd that thoſe who put his <hi>Lordſhip</hi>
+on this work, had an intention thereby to deſtroy the <hi>Biſhops</hi> in
+that Kingdome; that ſo they might be diſpoſers of the Churches patrimony.
+This gave the firſt riſe to our miſeries, for the <hi>Scots</hi>
+imediately oppoſe our <hi>Lyturgie,</hi> branding it as <hi>Popiſh,</hi>
+and <hi>Superſtitious,</hi> that <hi>Lyturgie</hi> which in the time of
+<hi>Queene Eli<g ref="char:EOLhyphen"/>zabeth,</hi> when She protected them againſt the Invaſions
+of the <hi>French,</hi> they embraced with all reverence and
+thankefulneſſe, and made uſe thereof in their Churches, as long as they
+had need of the <hi>Engliſh</hi> Protection, and then it was neither
+<hi>Popiſh</hi> nor <hi>Su<g ref="char:EOLhyphen"/>perſtitious,</hi> but a moſt holy worſhip,
+divinely compoſed for the decent and true honour of God: but they had not
+then been in<g ref="char:EOLhyphen"/>ſtructed in Mr. <hi>Calvins</hi> Doctrine, or at leaſt knew
+not how to wreſt it, and make uſe of it to throw off <hi>obedience</hi> to
+<hi>Kings,</hi> as<pb n="4" facs="tcp:116917:4"/>the true <hi>Proteſtant Religion</hi> had
+taught them to throw off the uſurpt <hi>Authority</hi> of the
+<hi>Pope.</hi>
+            </p>
+            <p>
+               <hi>Cardinall Richlieu,</hi> who was undoubtedly the moſt
+vigilant, and wiſeſt Councellour of this latter age; who induſtriouſly
+ſtu<g ref="char:EOLhyphen"/>died his <hi>Princes</hi> advancement, and enlargements of his
+Domini<g ref="char:EOLhyphen"/>ons, and had been long ſtudying and contriving to diſturbe the Peace
+of <hi>England,</hi> and watching every opportunity to doe it, for he well knew
+as long as the <hi>King</hi> of <hi>England</hi> enjoyed Peace, he held the
+ballance of this part of Chriſtendome, and by joyning with any Prince in
+oppoſition to the <hi>French King,</hi> would be able at any time to give a
+ſtop to his increaſe of <hi>Empery,</hi> and reſtraine his enlargement of
+Dominion, which this <hi>Cardinall</hi> aymed at: And for that cauſe he
+covetouſly embraced this occaſion offered by the <hi>Scots</hi> refuſall
+of our Booke of <hi>Common-Prayer,</hi> and pre<g ref="char:EOLhyphen"/>ſently endeavours to
+inſinuate the Auncient League between their Nations, how willing the
+<hi>French</hi> would be to aſſiſt them in the defence of their
+<hi>Religion, Laws</hi> and <hi>Liberties;</hi> But the Language which the
+<hi>Scots</hi> beſt underſtood was the <hi>French crownes,</hi> for that
+wiſe States man well knew, how little gold was generated in that cold
+<hi>climate,</hi> and how affected that Nation was to that met<g ref="char:EOLhyphen"/>tall, for he
+believed they might be purchaſed not onely to forfeit their
+<hi>Allegeance</hi> but to ſell their <hi>God</hi> for that coyne. And
+therefore he ſubtilely diſperſed his <hi>crownes</hi> amongſt their
+<hi>poor Nobility,</hi> who received them with condition of <hi>Rebellion,</hi>
+but yet durſt not enter openly into an hoſtile oppoſition of their
+<hi>Kings</hi> commands, un<g ref="char:EOLhyphen"/>till they were aſſured of a party in
+<hi>England,</hi> and therefore the <hi>Puritanicall</hi> party of this
+Kingdome muſt be tamper'd withall, and accordingly were, and found right for
+their turne; but theſe were but of the meaner ſort of people, and ſuch as
+were not able to raiſe any conſiderable power to countenance their
+underta<g ref="char:EOLhyphen"/>kings. And therefore it was neceſſary that ſome eminent
+<hi>Lords</hi> ſhould be drawne into the Plot, of which there were not many,
+that were <hi>Puritannically</hi> affected, and therefore they muſt ſeeke
+to gaine ſuch who were diſcontented, becauſe they were not countenanced,
+and enjoyed <hi>offices</hi> and <hi>honours</hi> at <hi>Court,</hi> to which
+their ambitions prompted them. This was by the induſtry of theſe men
+effected, and accordingly divers of the Nobillty were wrought upon to be of
+this party, of which I beleeve divers of<pb n="5" facs="tcp:116917:4"/>them who look't not
+into the depth of this Conſpiracy, have ſince heartily repented; ſeeing,
+and now knowing, what inſtruments they were made, to contribute to the ruine
+of this Kingdome. But they underſtood <hi>His Majeſty</hi> had money in his
+purſe, and was beforehand with the world, and untill that was waſted and He
+become poor, there was no hope of bringing Him to comply with their ends, and
+therefore there muſt be a <hi>ſhew</hi> of <hi>War,</hi> be<g ref="char:EOLhyphen"/>fore a
+<hi>reall War,</hi> and for this reaſon <hi>His Majeſty</hi> muſt be
+perſwa<g ref="char:EOLhyphen"/>ded to carry an Army to the borders of <hi>Scotland,</hi> to compell
+the <hi>Scots</hi> to conformity, and there He muſt have inſtruments to
+per<g ref="char:EOLhyphen"/>ſwade Him to lye ſtill, untill His ſtock of money was ſpent,
+Treat<g ref="char:EOLhyphen"/>ing, and making, and receiving overtures of Peace, which at laſt was
+concluded, and the obſervation thereof ſolemnely proteſted to continue
+ſo long, untill their <hi>Brethren</hi> in <hi>England</hi> were ready to
+aſſiſt them, and then the Religious <hi>Scots</hi> had liberty to breake
+all <hi>Oathes,</hi> and <hi>Proteſtations,</hi> and <hi>Rebell</hi> againe.
+And ſo ſhortly after they enter into <hi>England,</hi> with a pretence to
+<hi>Petition</hi> His Majeſty, but not to <hi>fight,</hi> but for their
+ſafety. This Petition muſt be preſented by an <hi>Army,</hi> and this
+<hi>Army</hi> muſt poſſeſſe themſelves of <hi>Townes</hi> in
+<hi>England,</hi> and muſt have all things granted unto them, which they
+could poſſibly deſire, within the Kingdome of <hi>Scotland,</hi> and this
+muſt be confirmed unto them by <hi>Acts</hi> of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> wherein
+<hi>His Majeſty</hi> muſt diveſt Himſelfe of all <hi>Regall
+pow<g ref="char:EOLhyphen"/>er,</hi> and give up all into the hands of His <hi>Scottiſh</hi>
+Subjects, to be at their diſpoſall, which could not have been an ill
+bargaine for His Majeſty, if He had had but ſome tye upon them to make good
+the compact; for if an <hi>Earth-quake</hi> ſhould ſwallow up thoſe that
+are perfidious of that Nation, it could be no loſſe unto the
+<hi>Crowne</hi> of <hi>England,</hi> unto which they have ever been falſe and
+burthen-ſome: For what was there wanting to that Nation, that they could
+deſire from their native <hi>King?</hi> His bounty, affection, and protection
+they were ſufficiently ſenſible of, if they could be ſen<g ref="char:EOLhyphen"/>ſible of
+benefits, but nothing can obliege them to hold their <hi>faith,</hi> or become
+<hi>gratefull.</hi>
+            </p>
+            <p>Theſe <hi>Scots</hi> being in a hoſtile manner entred the
+Kingdome, whom all good Subjects were bound to oppoſe and reſiſt; it was
+ſo far from that, that thoſe Souldiers which His Majeſtie raiſed for
+that purpoſe were diſheartned, and diſcouraged, in their un<g ref="char:EOLhyphen"/>dertakings,
+<pb n="6" facs="tcp:116917:5"/>and their Officers branded with the names of
+<hi>Papiſts,</hi> and the Souldiers encouraged to mutiny againſt their
+Comman<g ref="char:EOLhyphen"/>ders.</p>
+            <p>The <hi>Scots</hi> being <hi>Invaders</hi> were welcomed, and to
+make it good that they were Invited into the Kingdome, they were well
+re<g ref="char:EOLhyphen"/>compenſed for their paines. And no doubt this money was gi<g ref="char:EOLhyphen"/>ven them that
+they might be ready on all occaſions to enter the Kingdome againe when the
+<hi>Parliament</hi> ſhould call for them to ſecond and aſſiſt them in
+their attempts againſt His Majeſty: For truely now the <hi>Parliament</hi>
+have a very faire pretence, to challenge the ſame grants from His Majeſty
+that the <hi>Scots</hi> have obtained, and they are ſure of their
+<hi>Brethrens</hi> aſſiſtance, for they deſire that this Kingdome
+ſhould be as far engaged in <hi>Rebellion</hi> as themſelves; for by that
+being become equall ſharers in iniquity, they are thereby mutually obliged to
+potect, and preſerve each other againſt the power of the <hi>King,</hi>
+whom they are bound to oppoſe and ſuppreſſe, leſt His juſtice
+enabled by power, ſhould overtake and puniſh their <hi>Trayterous
+Rebellion.</hi>
+            </p>
+            <p>The <hi>Scots</hi> being now gone out of <hi>England,</hi> and His
+Majeſty ha<g ref="char:EOLhyphen"/>ving been in <hi>Scotland,</hi> and there according to His
+promiſes con<g ref="char:EOLhyphen"/>firmed all by <hi>Act</hi> of <hi>Parliament</hi> as
+aforeſaid, He returned hither to aſſure His ſubjects here that He was
+willing to do for them what<g ref="char:EOLhyphen"/>ſoever they could demand for the good of the
+Common-wealth, and by the preſidents of having already condiſcended unto
+more then ever any of His Anceſtors did for the Subjects, they are not at all
+ſtirred up to a <hi>gratitude</hi> for His grace and favour already
+conferr'd, but are thereby encouraged to make greater and higher
+<hi>demands,</hi> and muſt now inveſt themſelves with all <hi>Regall</hi>
+power and authority, and <hi>His Majeſty</hi> muſt be but a
+<hi>cipher,</hi> whilſt they rule, governe, order and diſpoſe all things
+at their pleaſure. And that they may the better gull and abuſe the people,
+and ſo lead them on to beleeve in them, they muſt in generals traduce the
+whole government, the <hi>Church</hi> they muſt beſpatter with
+<hi>Popery,</hi> and therein all decency muſt be accounted
+<hi>Superſtition,</hi> and the <hi>Biſhops</hi> who laboured for
+uniformity, and puniſht <hi>non-conformiſts,</hi> muſt be branded with
+the names of <hi>Popiſh innovators,</hi> and the chief crimes laid to their
+chare was <hi>Church Ornaments,</hi> which they ſty<g ref="char:EOLhyphen"/>led <hi>ragges</hi> of
+the <hi>whore</hi> of <hi>Babell.</hi> Sure if God had commanded
+<pb n="7" facs="tcp:116917:5"/>theſe reformers to have built the <hi>Tabernacle</hi> or
+the <hi>Sanctuary,</hi> they would not have obeyed him, but told him he was
+<hi>Popiſhly</hi> affected, and would have built him a <hi>Temple</hi> after
+their owne fancies and imaginations.</p>
+            <p>The <hi>Church</hi> being now the object of their furious zeale,
+the wiſdome of this grave Senate is not bound to particularize the faults
+therein, for ſo they might come to be diſputed, and might either in the
+reaſon and opinion of the people prove no faults, or elſe by that courſe
+it might onely produce a <hi>Reformation,</hi> but that was not the
+<hi>Parliaments</hi> aime, for they indeavoured to throw the whole Kingdom into
+combuſtion, eſpecially the <hi>Church Government,</hi> that muſt be
+deſtroyed, that ſo they may therein frame a new <hi>
+                  <g ref="char:V">Ʋ</g>topian</hi>
+government, agreeing with their phana<g ref="char:EOLhyphen"/>tique zeale: The people greedy of
+<hi>novelties,</hi> willingly embrace &amp; entertaine theſe changes, and
+with an eaſie credulity, beleeve all ſcandalous reports that are by theſe
+mens factors and abettors, raiſed to calumniate the <hi>Church,</hi> they
+doubt not if theſe men tell them ſo, but that there lurkes
+<hi>Idolatry</hi> in a <hi>Tipet</hi> or a <hi>Surplice,</hi> and if theſe
+men incite the madde multitde thereunto, they will preſently diſroable
+their Miniſters of their decent veſtments, and for no other cauſe then
+that they are conformable to the eſtabli<g ref="char:EOLhyphen"/>ſhed Government of the
+<hi>Church</hi> of <hi>England,</hi> they will aſſiſt to drive them from
+their Cures, and without any legall authority, to diveſt them of what they
+are poſſeſt of by the <hi>Lawes</hi> of <hi>God</hi> and the
+<hi>Realme:</hi> if any Inhabitant within thoſe Pariſhes where theſe
+enormities were committed, was ſo conſcientious as that he would not adhere
+to theſe exorbitant courſes, he was ſure to be preſently branded with
+the name of <hi>Papiſt,</hi> or at leaſt <hi>Popiſhly affected,</hi> and
+that alone was ſufficient to declare, that he was diſ<g ref="char:EOLhyphen"/>affected to the
+Parliament proceedings, and muſt be preſently new <hi>Chriſtened</hi> by
+his <hi>Parliament god-fathers,</hi> with the nick-name of <hi>Malignant,</hi>
+and <hi>Delinquent.</hi> And if this new named creature doth not forthwith
+ſeale up his lips, and not dare to ſpeake or mutter againſt thoſe, who
+proſecute theſe <hi>illicit acts,</hi> a <hi>Meſſen<g ref="char:EOLhyphen"/>ger</hi> ſhal be
+ready to fetch him to the <hi>Parliament,</hi> where in cuſtody he ſhall
+attend at an extraordinary charge their honours leiſure, who by reaſon of
+the high and weighty affaires of the Kingdome, cannot admit to hear ſo petty
+a complaint, untill this poor <hi>Ma<g ref="char:EOLhyphen"/>lignants</hi>
+               <pb n="8" facs="tcp:116917:6"/>purſe
+growes empty, and the <hi>Meſſenger</hi> hath ſufficiently drained his
+pockets; and then peradventure he will carry him before a <hi>Committee,</hi>
+where he ſhall be examined upon captions <hi>gueres,</hi> whereby he may
+entrap himſelfe, he ſhall neither know his <hi>accuſer,</hi> nor his
+<hi>accuſation,</hi> but he ſhall be told in generall, that he is a notable
+oppoſer of the <hi>Parliament,</hi> and for that he ſhall be ſure to be
+committed to ſome <hi>Priſon,</hi> that ſo his example of pu<g ref="char:EOLhyphen"/>niſhment
+may terrifie others from daring &amp; preſuming to be ho<g ref="char:EOLhyphen"/>neſt men. With
+this manner of proceeding, the moſt rationall men, who diſcovered and
+diſliked theſe practiſes, were deterr'd from oppoſing them, and thoſe
+of the vulgar and ordinary ranke of people, were perſwaded by other
+arguments, which were more prevalent on their underſtandings, which was
+<hi>impunity</hi> and <hi>pro<g ref="char:EOLhyphen"/>fit:</hi> for they were informed that they
+ſhould neither pay <hi>Tithes,</hi> nor be be <hi>ſubject</hi> to
+<hi>Eccleſiaſticall Courts:</hi> by this they were en<g ref="char:EOLhyphen"/>gaged to take part
+with theſe new <hi>Reformers.</hi> But as yet the <hi>Par<g ref="char:EOLhyphen"/>liament</hi>
+durſt not declare againſt the <hi>Common-Praier Booke,</hi> for they
+thought the people were too well inclined to that forme of Worſhip, to be
+ſuddenly deprived thereof: And therefore they declare that they intend not to
+aboliſh the Booke of <hi>Common-Prayer,</hi> but by authority confirme the
+uſe of it throughout the Kingdome, and withall they tell the people that it
+is a ſcandall raiſed by the <hi>Malignant</hi> party to make them odious,
+to report that they intended any ſuch thing as to take away the
+<hi>Common-Prayer Booke,</hi> onely there may be ſome things in it that may
+be fit to be reform'd; which hereafter with the advice of an
+<hi>Aſ<g ref="char:EOLhyphen"/>ſembly</hi> of <hi>Reverend Divines</hi> they meane to performe: Yet
+at the ſame time they connive at ſuch Miniſters as leave it off, and
+ſuf<g ref="char:EOLhyphen"/>fer ſcandalous <hi>pamphleteers</hi> to traduce that Sacred
+<hi>Lyturgie,</hi> ab<g ref="char:EOLhyphen"/>ſtracted from the <hi>Scripture,</hi> Compoſed by the
+moſt Reverend, Learned, and pious <hi>Divines,</hi> and <hi>ſealed</hi> by
+the <hi>bloud</hi> of <hi>Martyres:</hi> By theſe Inſtruments they firſt
+undermine it, and afterward when they have occaſion to make uſe of their
+<hi>Scotch Brethren</hi> to Conquer the Kingdome, then they are fitted with a
+packt Aſſem<g ref="char:EOLhyphen"/>bly, that muſt declare againſt the Booke of
+<hi>Common-Prayer,</hi> as <hi>Po<g ref="char:EOLhyphen"/>piſh</hi> and <hi>Superſtitious,</hi>
+that ſo they may introduce a thing called a <hi>Directory,</hi> that may
+bring them to a conformity with their <hi>Bre<g ref="char:EOLhyphen"/>thren</hi> in <hi>Doctrine,
+Worſhip,</hi> and <hi>Diſcipline.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:116917:6"/>Now give me leave to tell you by the way, that
+theſe men who have ſo univerſally changed, and altered the ſetled, and
+profeſſed <hi>Proteſtant Religion</hi> within this Kingdome, abuſed the
+people with telling them that <hi>His Majeſty</hi> by the advice of His
+<hi>evill Councel<g ref="char:EOLhyphen"/>lors,</hi> and aſſiſtance of the <hi>Biſhops,</hi>
+meant to <hi>change</hi> and <hi>alter Re<g ref="char:EOLhyphen"/>ligion,</hi> by throwing a
+ſuppoſed infamy on <hi>His Majeſty,</hi> which they really intended
+afterwards to effect themſelves, as is mani<g ref="char:EOLhyphen"/>feſt by the ſequell, for they
+have abſolutely changed our <hi>Religion,</hi> and <hi>His Majeſty</hi>
+remaines a conſtant perſeverer in the mainte<g ref="char:EOLhyphen"/>nance of the old
+eſtabliſhed forme, both of <hi>Doctrine, Worſhip,</hi> and
+<hi>Diſcipline;</hi> and I will be bold to affirm, that the Kingdome is
+al<g ref="char:EOLhyphen"/>moſt if not altogether, the unparallel'd preſident that have
+<hi>Rebel<g ref="char:EOLhyphen"/>led</hi> againſt their <hi>King,</hi> and fought, and deſtroyed
+the <hi>Nobility</hi> and <hi>Gentry</hi> of their Kingdome, becauſe they
+will not conſent to in<g ref="char:EOLhyphen"/>troduce the <hi>Religion</hi> and <hi>Laws</hi> of
+another <hi>Nation,</hi> and of ſuch a Nation as <hi>Scotland,</hi> whoſe
+people for the moſt part are not yet <hi>civilized,</hi> and for their
+<hi>rudeneſſe,</hi> and <hi>poverty,</hi> are the ſcorne and contempt of
+all <hi>Chriſtendome.</hi>
+            </p>
+            <p>This could not be that the gallant <hi>Engliſh</hi> ſhould be
+ſo delu<g ref="char:EOLhyphen"/>ded, but that for their ſins God hath infatuated them to be
+ſee<g ref="char:EOLhyphen"/>kers of their owne deſtruction.</p>
+            <p>This much by way of digreſſion; The <hi>Parliament</hi> now
+find<g ref="char:EOLhyphen"/>ing the people ſo apt to beleeve all that they ſuggeſt, they begin
+to decline, not onely againſt <hi>His Majeſty</hi> in relation to
+<hi>Religion,</hi> but alſo accuſe Him of <hi>miſgovernment</hi> in
+<hi>Civill affaires,</hi> but like the reſt, they will not ſtrike
+point-blanke at <hi>His Majeſty,</hi> but wound Him through His
+<hi>Miniſters</hi> ſides, telling the people, that He hath been miſled by
+<hi>evill Councellors,</hi> and thereupon they frame a <hi>Remonſtrance,</hi>
+which I may call an appeale to the people, whereby they aſperſe and traduce
+<hi>His Majeſty</hi> by enumerating all the <hi>preſſures,</hi> and
+ſuppoſed <hi>grievances,</hi> wherewith the Subjects have been burthened,
+ſince <hi>His Majeſty</hi> came to the Crowne, and they therein proceed
+ſo far as to accuſe <hi>His Majeſties intentions,</hi> ſaying that He
+intended to put an <hi>Exciſe</hi> upon his people. Eve<g ref="char:EOLhyphen"/>ry man imagined that
+they did this to declare to the world what Taxes the Subjects groaned under,
+and no man could ſuppoſe that the <hi>Parliament</hi> would multiply and
+encreaſe theſe grievan<g ref="char:EOLhyphen"/>ces, and that they would impoſe an
+<hi>Exciſe</hi> upon the people,<pb n="10" facs="tcp:116917:7"/>and ſo would induce that
+into <hi>Act,</hi> which they pretend onely was <hi>intentionally</hi> in
+<hi>His Majeſty,</hi> but time ſhewes us otherwiſe, for now the little
+fingers of theſe Councellors are weightier in oppreſſing the Subjects,
+then the loynes of <hi>His Majeſties Coun<g ref="char:EOLhyphen"/>cellors.</hi>
+            </p>
+            <p>The Free-borne Subject muſt be impriſoned, diſſeiſed of
+his E<g ref="char:EOLhyphen"/>ſtate, and no Legall cauſe ſhewne, <hi>Taxes</hi> impoſed, all
+things ma<g ref="char:EOLhyphen"/>naged by <hi>Arbitrary</hi> power, and no appeale but to them that do
+the injuſtice, this is part of the preſent miſery we groane under, but
+more of this in its due place.</p>
+            <p>The <hi>Parliament</hi> finding an inclination in <hi>His
+Majeſty</hi> to re<g ref="char:EOLhyphen"/>form all that is amiſſe, and willing to comply with
+His <hi>Parliament</hi> in all that they can propoſe for the good of the
+people, they grow fearfull that if <hi>His Majeſty</hi> be ſuffered to
+comply with them ſo faſt, all that is amiſſe in the Common-wealth will
+be reform'd too ſoone, and then there will be no worke for them, but they
+muſt returne home, and become private men againe, which is con<g ref="char:EOLhyphen"/>trary to their
+intentions; for they reſolve to <hi>Lord</hi> it over their <hi>fellow
+Subjects</hi> perpetually, which they cannot doe, unleſſe they devolve the
+Kingdome into greater miſeries and diſtractions, by contriving a <hi>Civill
+War</hi> within the bowels thereof: for the effecting of which, they uſe all
+their art and induſtry to inſlave the people, by pretending that there is a
+<hi>Malignant party</hi> in the Kingdome of <hi>Papiſts,</hi> and ſuch as
+are <hi>Popiſhly affected,</hi> who are <hi>machinating</hi> treacherous
+plots againſt them, by deſtroying of this glorious <hi>Parliament,</hi>
+which intends ſo much good to the Com<g ref="char:EOLhyphen"/>mon-wealth; and in the ruine of this
+<hi>Parliament,</hi> to bury all hopes of future redreſſe of our
+grievances.</p>
+            <p>Theſe <hi>feares</hi> and <hi>jealouſies</hi> are fomented
+amongſt the people, by their active inſtruments, who are eſpecially
+thoſe of the <hi>Clergy,</hi> and theſe by their pretended ſanctity of
+life eaſily gained credit amongſt their ſimple auditors, beſides ſuch
+as are divulgers of theſe reports, are directed to inſinuate, that <hi>His
+Majeſty</hi> hath a hand in theſe contrivances, by which obliquity He
+muſt be repre<g ref="char:EOLhyphen"/>ſented as the object of the peoples fear, who ought to be the
+protector of them and their Lawes, and they the ſecurity of His Power and
+Perſon: By this, diſtruſt of <hi>His Majeſty</hi> being begot<g ref="char:EOLhyphen"/>ten, and
+nouriſht amongſt the people, <hi>His Majeſties</hi> Perſon, toge<g ref="char:EOLhyphen"/>ther
+<pb n="11" facs="tcp:116917:7"/>with His <hi>Royall Conſort</hi> and <hi>Children,</hi>
+are expoſed to all ca<g ref="char:EOLhyphen"/>lumnie and reproach; that ſo they may become
+contemptible. Yet notwithſtanding all theſe practiſes, which were the
+contri<g ref="char:EOLhyphen"/>vances of particular plotters in both Houſes: yet there was a party of
+honeſt able Gentlemen in the Houſe of <hi>Commons,</hi> and the
+<hi>Biſhops</hi> and ſome <hi>Noble Lords</hi> in the Houſe of
+<hi>Peeres,</hi> that croſt and thwarted the proceedings of this violent
+party. How to remove theſe was now the great endeavour, and the
+<hi>Biſhops</hi> they muſt firſt be thruſt out of the Houſe of
+<hi>Lords,</hi> and the better to effect this, the people they muſt be
+ſtirr'd up to <hi>Petition</hi> the Houſe of <hi>Commons,</hi> that the
+<hi>Prelates</hi> who by their <hi>Votes</hi> in <hi>Parliament</hi> hindred
+the intended <hi>Reformation,</hi> might by an <hi>Act</hi> of
+<hi>Parliament</hi> be excluded out of the Houſe, and their <hi>Votes</hi>
+taken away.</p>
+            <p>And to the end that theſe people might not erre in the forme or
+manner of Petitioning, they had good friends in the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> that
+could penne their Petitions according to the ſenſe of the Houſe: theſe
+Petitioners were commonly attended by a tu<g ref="char:EOLhyphen"/>multuous rabble of the City and
+Suburbes, who were ſummoned to meet together for that purpoſe, and although
+they came toge<g ref="char:EOLhyphen"/>ther, and flockt to the Houſes, more like an unlawfull
+aſſembly of riotous, and mutinous perſons, who imperiouſly
+<hi>demanded,</hi> ra<g ref="char:EOLhyphen"/>ther then humbly <hi>Petitioned</hi> for what they
+deſired, and therefore for their manner of comming, rather deſerved to be
+reprehen<g ref="char:EOLhyphen"/>ded then cheriſht, yet they were welcomed, and thankt for their
+great care of the Common-wealth, and encourag'd to draw to<g ref="char:EOLhyphen"/>gether in ſuch
+unlawfull aſſemblies.</p>
+            <p>The Bill being now formed for the excluding the <hi>Biſhops</hi>
+out of the Houſe, they preſſe <hi>His Majeſty</hi> to ſign it, and
+that they may worke Him thereunto, they make uſe of all thoſe Inſtruments
+a<g ref="char:EOLhyphen"/>bout Him, who are either afraid to be laſht by their exorbitant power, or
+elſe are deſirous to partake with them in their wayes, and theſe who are
+truely the <hi>evill Councellors,</hi> obtaine of <hi>His Ma<g ref="char:EOLhyphen"/>jeſty</hi> to
+paſſe this <hi>Bill.</hi>
+            </p>
+            <p>I wiſh with my ſoule His Majeſty had never been betrayed by
+theſe evil Inſtruments to doe ſo ill an act as to deprive the
+<hi>Church</hi> of that power next under Him ſhould govern and protect it,
+and by their conſent to wholſome Lawes in <hi>Parliament</hi> preſerve
+their flocks from the ravenous Wolves that have ſince devoured them.</p>
+            <p>
+               <pb n="12" facs="tcp:116917:8"/>I am no <hi>Lawyer</hi> to determine how
+eſſentiall a part of the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> the <hi>Biſhops</hi> were,
+but I believe they were one of the <hi>E<g ref="char:EOLhyphen"/>ſtates</hi> that made up that great
+<hi>body,</hi> and this I am ſure is conſo<g ref="char:EOLhyphen"/>nant to reaſon, for if each
+Member of the Common-wealth be obliged to obey the <hi>Lawes</hi> made in that
+Convention, becauſe they conſent unto them by thoſe who are preſent at
+the making of thoſe Lawes as being Perſons choſen by them by whoſe
+Votes they oblige themſelves, I know no reaſon that the <hi>Clergy</hi> who
+are ſo eminent a part of the Common-wealth, ſhould not have fit perſons
+by them choſen to ſit and Vote likewiſe in the Houſe, by whom their
+conſent unto all Lawes might be included.</p>
+            <p>And it will appear a ſtrange irregular courſe in the opinion
+of foraine Nations, and that which will be a diſhonour and a diſparagement
+unto this Kingdome, that the <hi>doctrine</hi> and <hi>diſcipline</hi> of our
+<hi>Church,</hi> is ſubverted, and that we have in a manner a new Religion
+framed, and no <hi>Clergy-man</hi> hath either an <hi>affirmative</hi> or a
+<hi>negative Vote</hi> in the compoſure; an <hi>Aſſembly of Divines</hi>
+being pickt out and packt together by no lawfull authority, and onely made
+uſe of to colour out and countenance the acts of thoſe who are altogether
+<hi>Lay-men.</hi>
+            </p>
+            <p>It will ſeem ſtrange hereafter when theſe proceedings
+ſhall be maturely heard and debated, that it ſhould appear that a
+buſineſſe of ſo high a nature as the diſpoſſeſſing the
+<hi>Biſhops</hi> of their juſt rights ſhould be tranſacted, and that
+thoſe who are <hi>parties</hi> ſhould be made their <hi>Judges,</hi> to
+condemn without hearing thoſe who are ſo eminently their Superiours both in
+degree and dignity: but it is now too apparent to all the world what it was
+that pro<g ref="char:EOLhyphen"/>voked this violent and irregular proſecution, the end being that
+theſe Reformers might rob the Church of that patrimony which the piety of
+their Aunceſtors had inveſted the <hi>Biſhops</hi> withall.</p>
+            <p>And it will be well if the <hi>legiſlative</hi> power which
+theſe men exerciſe can ſecure them from being guilty of
+<hi>ſacriledge,</hi> and quit them at the dreadfull Tribunall from horrid
+impiety.</p>
+            <p>Thoſe honeſt and able Noblemen and Gentlemen who were choſen
+and truſted by their Countries, and whoſe tender conſci<g ref="char:EOLhyphen"/>ences ſcrupled
+at theſe injurious and impious proceedings, and ac<g ref="char:EOLhyphen"/>cording to the dictate of
+their reaſons diſſented from theſe unjuſt and irregular actions,
+theſe were traduced amongſt the people as<pb n="13" facs="tcp:116917:8"/>members
+Popiſhly affected, and not fit to continue in the Houſes.</p>
+            <p>And to deter them the more, the rabble &amp; ſcum of the people
+were brought down often to <hi>Weſtminſter,</hi> and there were taught to
+know thoſe men that oppoſed their <hi>Faction,</hi> and to revile them with
+ſcurilous and opprobrious language, and ſo to menace them as they thought
+it not ſafe for them to ſtay longer in the Houſes, eſpecially after
+they had with the like <hi>Tumults</hi> driven away <hi>His Majeſty</hi> from
+<hi>White-hall,</hi> the Protectour of them and the Lawes being chaſed out of
+the Towne, there was little ſecu<g ref="char:EOLhyphen"/>rity left for thoſe Subjects who did
+deſire to regulate their acti<g ref="char:EOLhyphen"/>ons by the Law, when their King that ſhould
+maintain the Law, and unto whom all His Subjects did owe and had ſworne
+<hi>obedi<g ref="char:EOLhyphen"/>ence,</hi> could not ſecure Himſelf from the inſolence and
+violence of the inraged <hi>multitude.</hi>
+            </p>
+            <p>Sure all this while the people were in a dreame, or elſe they
+could not have been drawn ſo madly to violate all Law, and to contribute to
+their owne undoing.</p>
+            <p>For, by driving away theſe ſober and temperate men from the
+<hi>Parliament,</hi> and <hi>His Majeſty</hi> from their protection, they put
+all Power and Authority into the hands of furious <hi>Schiſmatiks,</hi> and
+ſubmitted themſelves and their Eſtates to be diſpoſed by them,
+whoſe <hi>phrenaticall</hi> ſpirits never knew temper and moderation in any
+of their actions.</p>
+            <p>By their Votes and Ordinances the Kingdome is immediately throwne
+into all diſorder and diſtemper, unlimited <hi>tyrannous</hi> re<g ref="char:EOLhyphen"/>gall
+authority uſurpt by Subjects, who like <hi>Phaëton</hi> gotten into the
+<hi>Suns Chariot</hi> ſet all the world on fire, it never hapning
+other<g ref="char:EOLhyphen"/>wiſe but that when ſuch unskilfull Pilots get to the helme, all
+Paſſengers are ſhipwrackt on the rocks. So it fell out with theſe men,
+as how could it be otherwiſe imagined, that <hi>Shop-keepers</hi> and poor
+mechanique <hi>Tradeſ-men</hi> (for ſuch were the major part that were left
+in the <hi>Houſe of Commons</hi>) ſhould be able to manage and diſpoſe
+the great affaires of the Kingdome. I doe not ſay that all the <hi>Houſe of
+Commons</hi> conſiſted of ſuch, for there were ſome cunning Contrivers
+left in the Houſe, who either out of malice to the preſent ſetled
+Government, or envy that they were not preferred to eminent Places and Offices
+at Court, at which their ambitions aymed, who guided and governed the reſt of
+the<pb n="14" facs="tcp:116917:9"/>Members to conſent unto, and Vote what they deſigned
+for the diſturbance of the Common-wealth.</p>
+            <p>Theſe having driven away <hi>His Majeſty,</hi> and alſo
+their <hi>fellow Members</hi> that oppoſed them, it was now neceſſary
+that they ſhould ſtill infuſe <hi>fears</hi> and <hi>jealouſies</hi>
+into the hearts of the people, thereby to prevent that they may not return unto
+their wits and ſetled judgment: For, then their Treaſons would be unmask'd,
+and their Plots and contrivances diſcovered, and then the people would fall
+upon them as the Authours of their miſery.</p>
+            <p>To avoid this, theſe cunning Artiſts ſhifted the ſcene,
+and ac<g ref="char:EOLhyphen"/>cording to the common Proverb, <hi>cried Whore firſt.</hi> And
+divulged that <hi>His Majeſty</hi> intended to raiſe <hi>War</hi> againſt
+His <hi>Parliament,</hi> whereas the truth was, they intended to raiſe a
+<hi>War</hi> againſt <hi>His Majeſty,</hi> and to this purpoſe all the
+<hi>lies</hi> that the <hi>Devill</hi> the Au<g ref="char:EOLhyphen"/>thour of <hi>lies</hi> could
+invent, were printed and publiſhed by their allowance, <hi>Papiſts</hi>
+every where muſtered <hi>inviſible Armies</hi> under ground, and <hi>forain
+Forces</hi> were landed in every Port, and daily intelligence pretended to be
+brought to the Houſe of ſtrange <hi>Maſſacres</hi> intended for the
+cutting the throats of all their <hi>Mem<g ref="char:EOLhyphen"/>bers,</hi> eſpecially the moſt
+eminent, they were aymed at to be de<g ref="char:EOLhyphen"/>ſtroyed: and yet all theſe pretences
+could hardly prevaile with the people inured to long <hi>peace</hi> and
+<hi>quiet</hi> to put themſelves into Armes, and therefore they would not
+relie on the giddy <hi>multi<g ref="char:EOLhyphen"/>tude,</hi> although they had incenſed them with
+ſtrange malitious re<g ref="char:EOLhyphen"/>ports, which was, that <hi>His Majesties Commiſſions
+of Array</hi> which He directed into the ſeverall Counties of the Kingdome to
+mu<g ref="char:EOLhyphen"/>ſter the Forces thereof for the preſervation of their <hi>peace</hi>
+accor<g ref="char:EOLhyphen"/>ding to an auncient and knowne Law, was intended for their ruine and
+deſtruction, and thereby to ſubject them unto a <hi>tyranni<g ref="char:EOLhyphen"/>call</hi> and
+<hi>arbitrary</hi> power, whereby they ſhould be robb'd of their Eſtates,
+and enſlaved in their perſons. This rumour wrought much with the ignorant
+multitude, yet not ſo much as that the <hi>Parliament</hi> would build upon
+this foundation, an aſſurance of protection from the people, but would make
+uſe of the <hi>peoples affections</hi> and <hi>inclinations</hi> towards them
+as a good ſecond to their maine ſupport, which was an Army of mercinary
+Souldiers, raiſed by <hi>His Majeſties</hi> conſent, to ſuppreſſe
+the <hi>Iriſh Rebellion,</hi> but em<g ref="char:EOLhyphen"/>ployed by theſe men to fight againſt
+<hi>his Majeſty,</hi> &amp; upon the fore-mentioned<pb n="15" facs="tcp:116917:9"/>pretences to deſtroy Him and all thoſe who adhere unto Him, out of
+their Loyalty, and the conſcience of the duty they owed Him: The horrid acts
+committed by the barbarous <hi>Iriſh,</hi> in maſſacring the poor
+<hi>Proteſtants</hi> in <hi>Ireland,</hi> was ſo ſtrong a motive to
+engage people to take armes to ſuppreſſe thoſe <hi>Re<g ref="char:EOLhyphen"/>bels,</hi> and
+revenge their injuries, that every man was willing to un<g ref="char:EOLhyphen"/>dertake that Warre,
+little thinking that the deſigne of <hi>Ireland</hi> ſhould onely be made
+the pretence, whilſt a <hi>Civill War</hi> in <hi>England</hi> was
+principally intended.</p>
+            <p>And if men were not ſtupidly ignorant, they might ſtill
+diſcerne, that the <hi>Iriſh War</hi> is kept on foot, without intention to
+end the ſame by a vigourous undertaking of it, that ſo they may have a
+pretence ſtill to leavy and keep Souldiers here in <hi>England,</hi> there<g ref="char:EOLhyphen"/>by
+to oppreſſe the people by their <hi>Taxes,</hi> and enſlave them by their
+<hi>power.</hi>
+            </p>
+            <p>For if this had not been their end, why would they not permit
+<hi>His Majeſty</hi> who was willing at firſt in Perſon to under<g ref="char:EOLhyphen"/>take
+that War, to be the manager thereof, as it did properly be<g ref="char:EOLhyphen"/>long unto Him? why
+did they impoſe ſuch hard conditions on thoſe poor people? wherein the
+innocent with the guilty were all involv'd, diſpoſing of their Eſtates,
+and ſelling of it to <hi>Mer<g ref="char:EOLhyphen"/>chant Adventurers,</hi> before they begun the
+<hi>War,</hi> thereby rende<g ref="char:EOLhyphen"/>ring the people deſperate, by leaving no gap
+open, whereby they might enter by way of <hi>Treaty, mercy</hi> or
+<hi>accomodation?</hi> Why doe they now proceed ſo ſlackly in that
+<hi>War,</hi> by ſending over inconſi<g ref="char:EOLhyphen"/>derable Forces, and ſtarving
+thoſe before they recruit them by freſh ſupplies? or why have they taken
+ſuch care, and uſed ſuch induſtry to diſſolve all
+<hi>Treaties,</hi> which <hi>His Majesties</hi> pious indea<g ref="char:EOLhyphen"/>vours framed to
+compoſe the differences in that Kingdome? un<g ref="char:EOLhyphen"/>leſſe they intend ſtill to
+continue and prolong that War, that ſo they might have ſpecious pretences
+from thence to enſlave and poveriſh the people here.</p>
+            <p>But now Forces being raiſed for <hi>Ireland,</hi> they did delay
+the ſending of them, alleaging that His Majeſty ſeduced by <hi>evill
+Coun<g ref="char:EOLhyphen"/>cellors,</hi> was raiſing an Army to fight againſt the
+<hi>Parliament,</hi> and to enthrall His Subjects, depriving them of their
+juſt rights and Liberties, and therefore theſe Souldiers with as many more
+as they were able to raiſe, muſt be employed to fight againſt the
+<pb n="16" facs="tcp:116917:10"/>
+               <hi>Cavelieres,</hi> for with that honourable appellation,
+they were plea<g ref="char:EOLhyphen"/>ſed malitioufly and ignorantly to ſtile all thoſe, whoſe
+Loyalties prompted them to adhere unto <hi>His Majeſty.</hi>
+            </p>
+            <p>Being now reſolved upon a War, their next ſtudy was how to be
+aſſured of the <hi>ſinewes</hi> thereof, MONEY, and they finde the
+certaineſt meanes to be furniſht with that mettall, is to engage the
+<hi>City</hi> in their <hi>Rebellion,</hi> whoſe purſes overflow'd with
+abun<g ref="char:EOLhyphen"/>dance, indirectly gotten by falſe <hi>light Wares, Weights,</hi> and
+<hi>Mea<g ref="char:EOLhyphen"/>ſures,</hi> and therefore it was not unlikely that what was gotten by
+the cunning of the <hi>Devill,</hi> might be exhauſted to be ſpent by his
+<hi>miniſters:</hi> but yet the <hi>knave</hi> &amp; his money are not ſo
+ſoone parted as the <hi>foole</hi> and his money, and therefore they muſt
+uſe ſome arti<g ref="char:EOLhyphen"/>ficiall, &amp; cunning ſuggeſtions, to divorce the
+<hi>Citizen</hi> from his <hi>God.</hi>
+            </p>
+            <p>And therefore firſt, they ſell him very cheape pennyworths of
+Land in <hi>Ireland,</hi> and having once bit at that bait, and disburſt
+ſome money for that purchaſe, it was eaſie to perſwade him to ſhoot
+one arrow after another, untill he be drawne by the peru<g ref="char:EOLhyphen"/>ſall of a faire
+ſurvey, with the title confirm'd by an <hi>Ordinance</hi> of
+<hi>Parliament,</hi> to buy the <hi>Mannor</hi> of <hi>Hell</hi> with the
+<hi>fiſhing</hi> of <hi>Styx,</hi> and the <hi>ferry</hi> of <hi>Charon.</hi>
+Elſe who would imagine that there could be a generation of <hi>Chriſtian
+people</hi> ſo given over to worke wick<g ref="char:EOLhyphen"/>edneſſe, without any the leaſt
+ſhew of legall title, or juſtice for their warrant or ſecurity, that
+could be induced to purchaſe other mens Eſtates, nay to purchaſe that
+Land which the <hi>Religion</hi> and <hi>piety</hi> of our Aunceſtors
+conferr'd on the <hi>Church,</hi> nay that theſe <hi>Sacrilegious</hi>
+villaines, ravenous birds of prey, can <hi>unplume</hi> the Sacred birds of
+<hi>Paradiſe</hi> and <hi>pride</hi> it in their <hi>feathers,</hi>
+expoſing the reverend <hi>Clergie</hi> naked to the <hi>frozen</hi> charity
+of theſe <hi>unchriſtian</hi> times?</p>
+            <p>
+               <hi>Pride</hi> and <hi>plenty</hi> are the diſeaſes of this
+<hi>City,</hi> and <hi>War</hi> which by bloud-letting cures this
+ſickneſſe muſt doe it; but there is a great deale of hazard in it, the
+remedy being commonly worſe then the diſeaſe; for ſome time it kils in
+ſtead of curing, and moſt times it ſo ruines and deſtroyes the fabrick,
+and conſtitution of health, that it leaves a weake, miſerable, and
+conſumptive body ever af<g ref="char:EOLhyphen"/>ter.</p>
+            <p>In all ages of the world this hath been experimentally
+mani<g ref="char:EOLhyphen"/>feſted, and I wiſh it may not be prophetically now ſpoken of this
+<pb n="17" facs="tcp:116917:10"/>City. For all the flouriſhing and moſt famous Cities of
+the world, when their <hi>pride</hi> and <hi>luxury</hi> had debaucht them into
+ſuch ſins as <hi>London</hi> is guilty of, they have been at laſt
+miſerably ſwallowed in the ruines of that War, which their owne
+<hi>Rebellion</hi> firſt begot.</p>
+            <p>But the <hi>Parliament</hi> now had their ends, which was to
+engage the <hi>City</hi> as deepely in this <hi>Rebellion</hi> as themſelves;
+for ſo they became maſters of their Eſtates, and ſo were enabled to
+manage and continue the War at their pleaſures. And truely it was no
+difficult taske for them to goe through with their undertaking, for now being
+poſſeſt of the money banke (the City mines) they could do all things.</p>
+            <p>There the Army is now raiſed, and wants nothing now but a
+<hi>popular Generall</hi> to conduct this Army. <hi>Eſſex,</hi> who being
+ſcorn'd, laught at, and contemn'd at <hi>Court</hi> amongſt the
+<hi>Lords,</hi> for his <hi>diſ<g ref="char:EOLhyphen"/>ability,</hi> being angry at his ſlighting,
+he was thought fit to be the man, for upon his <hi>Fathers</hi> ſcore, no
+<hi>merits</hi> of his <hi>owne,</hi> he was eſteemed amongſt the people:
+beſides, he was <hi>bold</hi> and <hi>blockiſh,</hi> ſo his
+<hi>confidence</hi> might lead him into <hi>action,</hi> and his
+<hi>ignorance</hi> not diſcover their artifice that employ'd him: By this he
+ap<g ref="char:EOLhyphen"/>pear'd to be a fit ſubject for their election, and rejection at
+plea<g ref="char:EOLhyphen"/>ſure, and accordingly afterward they uſed him, rejected him, and
+ſcorn'd him, when he had ſerv'd their turnes.</p>
+            <p>The <hi>Army</hi> being now rais'd and marcht, both was done
+un<g ref="char:EOLhyphen"/>der the ſpecious pretext of fighting for the <hi>King,</hi> to bring Him
+to His <hi>Parliament,</hi> and to withdraw Him from His <hi>evill
+Coun<g ref="char:EOLhyphen"/>ſellors,</hi> to reſide with His <hi>great Councell,</hi> who intended
+to make Him a GREAT and GLORIO10</p>
+            <p>S KING. A <hi>Battaile</hi> is fought pretended for the
+<hi>King,</hi> where <hi>His Majeſty</hi> oppoſed them in Perſon, and
+their <hi>undiſtinguiſhable bullets</hi> let flye againſt <hi>His
+Majeſty,</hi> the <hi>Prince</hi> and <hi>Duke</hi> of <hi>Yorke,</hi> and
+yet all this was ſtill pretended for the <hi>ſafety</hi> of His
+<hi>Perſon:</hi> in this <hi>Battaile</hi> it pleaſed <hi>God</hi> to
+protect <hi>His Majeſty,</hi> that He came off with <hi>Honour</hi> and
+<hi>ſafety,</hi> for He kept the field, tooke divers <hi>Colours,</hi> and
+ſome <hi>Cannon.</hi> Yet this muſt be other wayes repreſented to the
+<hi>City,</hi> and thoſe who pretended to be in the Battaile, but were indeed
+hid in <hi>Sawpits,</hi> muſt be inſtructed to make ample narratives at the
+<hi>Guild-Hall,</hi> thereby to gull the City with an opinion of a
+<hi>Victory,</hi> leſt they ſhould be diſheartned, and ſo with-hold
+their contribu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <pb n="18" facs="tcp:116917:11"/>It is moſt true <hi>His Majesty</hi> loſt
+gallant men there, and it could not be otherwiſe, for He had none but ſuch
+in His Army, and playing like a prodigall gameſter, <hi>gold</hi> to
+<hi>braſſe,</hi> it muſt of neceſ<g ref="char:EOLhyphen"/>ſity follow, that by the chance of
+War, He muſt loſe ſome of the Nobler mettall, by adventuring it on that
+oddes.</p>
+            <p>But <hi>His Majeſty</hi> went on with his deſigne, and tooke
+<hi>Banbury,</hi> which His enemies durſt not attempt to hinder, and from
+thence marcht towards <hi>London,</hi> and having beaten the enemy at
+<hi>Bran<g ref="char:EOLhyphen"/>ford,</hi> might undoubtedly have purſued His ſucceſſe into
+the <hi>City,</hi> where certainely he had then a ſtrong party to have
+aſſiſted Him, but His <hi>Party</hi> reſtrained Him, being unwilling to
+expoſe that rich <hi>City,</hi> to the <hi>fury</hi> and <hi>rapine</hi> of
+the greedy <hi>Souldier.</hi> His Majeſty therefore retreated unto
+<hi>Oxford,</hi> where He might ſtudy that <hi>Lo<g ref="char:EOLhyphen"/>gique</hi> which the
+<hi>Parliament</hi> had taught Him, which was, how <hi>Subjects</hi> might
+fight againſt their <hi>King,</hi> for His preſervation: but finding not
+learning enough there to inſtruct Him in this <hi>ſtrange</hi> and
+<hi>unheard</hi> of <hi>doctrine,</hi> He takes the field againe, and
+ſometimes winnes, and loſes according to the hazard of <hi>Battailes.</hi>
+Yet at laſt He grew ſo ſucceſſefull, that our <hi>Brethren</hi> of
+<hi>Scotland</hi> were call'd to the aid and aſſiſtance of their
+diſtreſſed friends here.</p>
+            <p>And now the <hi>ſolemne League</hi> &amp; <hi>Covenant</hi> was
+contrived, and theſe accurſed <hi>Traytors</hi> as they had abandoned their
+<hi>Loyalty,</hi> ſo they muſt ſweare to forſake their
+<hi>Religion,</hi> thereby to engage the <hi>Scots</hi> to their
+aſſiſtance. This accordingly they performe, and ſo a
+<hi>Scottiſh</hi> Army is brought into the <hi>Kingdome,</hi> hired by
+theſe <hi>mi<g ref="char:EOLhyphen"/>ſcreants</hi> at the price of their <hi>Religion,</hi> to gnaw
+out the <hi>bowels</hi> of their <hi>native Country:</hi> by the help of
+theſe and their <hi>money,</hi> and by the evill <hi>conduct,</hi> emulating
+<hi>pride,</hi> and perfidious <hi>treacherie</hi> of <hi>His Majeſties</hi>
+Officers they prevaile, reduce the whole Kingdom to their obedience, and at
+laſt purchaſe <hi>His Majeſty</hi> who was fled to the falſe
+<hi>Scots</hi> for His protection, and refuge, and by them to the
+<hi>diſhonour</hi> of their <hi>Nation</hi> be it ever ſpoken, and with
+this Cha<g ref="char:EOLhyphen"/>racter of <hi>ignomy</hi> and <hi>infamy,</hi> let them be branded to
+all <hi>poſterity,</hi> who had any ſhare therein: <hi>His Majeſty</hi>
+was treacherouſly and <hi>baſely</hi> delivered up into the hands of His
+<hi>Rebellious</hi> and <hi>diſloyall</hi> Subjects, who in ſo many
+ſeverall <hi>Battailes</hi> had ſought His life, and therefore could not be
+imagined but that they would ex<g ref="char:EOLhyphen"/>poſe Him to <hi>contempt,</hi> and as they
+have <hi>rob'd</hi> Him of His <hi>Liberty,</hi>
+               <pb n="19" facs="tcp:116917:11"/>when they
+found it neceſſary or convenient for them, would de<g ref="char:EOLhyphen"/>prive him of his
+<hi>life</hi> alſo.</p>
+            <p>I have now brought the <hi>Parliament,</hi> or rather they have
+brought themſelves to the higheſt degree of <hi>power</hi> and
+<hi>Sove<g ref="char:EOLhyphen"/>raignty;</hi> I beſeech every man ſeriouſly to weigh and
+conſider by what meanes and inſtruments they have aſcended to this
+<hi>Su<g ref="char:EOLhyphen"/>preame</hi> height, each ſtep by which they have climbed have beene
+<hi>multiplied Treaſons,</hi> new in their <hi>invention,</hi> unparallel'd
+in their <hi>condition,</hi> ſins of the blackeſt nature have been their
+<hi>props</hi> and <hi>ſup<g ref="char:EOLhyphen"/>ports,</hi> the fowleſt <hi>impieties,</hi> and
+the moſt irreligious <hi>practiſes,</hi> the <hi>baſis</hi> and
+<hi>foundation</hi> of all their <hi>ſtructure: publique faith</hi> they have
+proſtituted like a <hi>common whore,</hi> and taught her to pick the pockets
+of her <hi>fornicators: Lying</hi> and <hi>perjury</hi> hath been the
+un<g ref="char:EOLhyphen"/>tempered <hi>morter</hi> they have <hi>dawb'd</hi> withall: <hi>Murder,
+Theft,</hi> and <hi>Rapine,</hi> hath been the chiefe <hi>materials</hi> they
+have wrought withall. But leſt you ſhould imagine me too invective,
+although I ſpeake nothing but the truth, I will give you my obſervations of
+the dif<g ref="char:EOLhyphen"/>ference, betweene the <hi>preſent</hi> and <hi>preceding</hi> times,
+wherein if every indifferent underſtanding be not able to diſcover a
+remarkable diſparity, and how we are declin'd into a much worſe condition
+then formerly we enjoyed; I muſt conclude he wilfully ſhuts the eyes of his
+reaſon, leſt he ſhould be made ſenſible of that igno<g ref="char:EOLhyphen"/>rance he hath
+lived in, or be found guilty of conniving at thoſe <hi>plots</hi> and
+<hi>practices</hi> which during this <hi>Parliament</hi> have been uſed, to
+ru<g ref="char:EOLhyphen"/>ine and deſtroy his Country.</p>
+            <p>It were enough to let you ſee the difference, if I onely tell
+you the Kingdome before this <hi>Parliament</hi> enjoy'd <hi>peace,</hi> and
+that it is now embroyled with a <hi>Civill War:</hi> but I ſhall addreſſe
+my ſelfe more particularly to each mans underſtanding; and in the firſt
+place I ſhall begin with our <hi>Religion,</hi> which was ſo
+<hi>reform'd</hi> and <hi>ſetled</hi> in this Kingdome, as that it was an
+<hi>honour</hi> unto our Nation, a <hi>fear</hi> and <hi>terror</hi> unto the
+<hi>Romiſh</hi> party, and the hope and wiſh of all <hi>Proteſtant
+Churches</hi> beyond the Seas, that they might be ren<g ref="char:EOLhyphen"/>dred in a capacity to
+imitate us; for we had excluded the no<g ref="char:EOLhyphen"/>vell <hi>introductions</hi> and
+ſuperſtitious <hi>fopperies</hi> of the <hi>Papiſts,</hi> and yet
+retained a <hi>decency</hi> of <hi>order</hi> &amp; <hi>Divine worſhip</hi>
+in our <hi>Churches,</hi> ſuch as would not admit of <hi>parity</hi> to
+confound, or fancy to diſturbe the wel-compoſed <hi>harmony</hi> in the
+<hi>government</hi> of the <hi>Church.</hi>
+            </p>
+            <p>
+               <pb n="20" facs="tcp:116917:12"/>That <hi>God,</hi> who is the <hi>God</hi> of
+<hi>Order,</hi> and is delighted in it, as ap<g ref="char:EOLhyphen"/>peares by the conſent and union
+in the <hi>Creation,</hi> and diſpoſing of all things, was here ſerved
+with <hi>Order</hi> and <hi>Reverence; Humility</hi> was the <hi>Garment</hi>
+we put on when we entred into the holy places, expreſt by our humble
+<hi>Geſtures</hi> and civill <hi>Comportment</hi> in the <hi>time</hi> and
+<hi>place</hi> of <hi>Adoration,</hi> and each degree according to his eminency
+had that duty and reſpect payed him, which was due according to the
+ſuperiority of his calling, from his inferior and ſubordi<g ref="char:EOLhyphen"/>nate
+Officers.</p>
+            <p>A remedy was provided for each inconvenience, and no crime could
+eſcape unpuniſhed, unleſſe by the corruption of the Judge, and that
+nothing can prevent; for whilſt Jugdes are men, ſome of them will ſtill
+be wicked and corrupt, and private paſſions and intereſts will lead them
+to connive at offences, or to paſſe indi<g ref="char:EOLhyphen"/>rect and unjuſt Sentences,
+according to their affections and relati<g ref="char:EOLhyphen"/>ons. We had as many eminent and
+learned men in the Kingdom as any Age ever produced, and the
+<hi>
+                  <g ref="char:V">Ʋ</g>niverſities</hi> and <hi>Innes</hi> of <hi>Court</hi> as flouriſhing
+in their ſeverall Profeſſions as ever they were. The <hi>Word</hi> and
+the <hi>Sword, Religion</hi> and <hi>Juſtice,</hi> were e<g ref="char:EOLhyphen"/>qually
+adminiſtred through the Kingdom; each man knew <hi>where,</hi> and
+<hi>how</hi> to <hi>pray</hi> according to the Patterne and Forme preſcribed
+by our <hi>Saviour,</hi> and to joyne with united hearts and voices in the
+moſt ſacred and beſt compoſed <hi>Lyturgie</hi> of the world. The
+firſt rudiments of <hi>Chriſtian Religion</hi> were learned by heart, by
+being only Auditors and Aſſiſtans at our <hi>Church</hi> ſervice. The
+<hi>Lords Prayer,</hi> the <hi>Greed,</hi> and the <hi>ten Commandements,</hi>
+which are the <hi>principles</hi> of <hi>Chriſtian Religion,</hi> was a part
+of our <hi>Lyturgie;</hi> and we are daily taught how to <hi>praiſe God</hi>
+for the <hi>benefits</hi> we had and did daily receive, and how to
+<hi>pray</hi> unto him for the ſupply of our <hi>wants.</hi> And ſure, on
+theſe two maine pillars of <hi>Praiſe</hi> and <hi>Prayer,</hi> the
+ſtructure of <hi>Religion</hi> is erected.</p>
+            <p>This was the <hi>Sacrifice</hi> we offered three or four times a
+day in our <hi>Cathedrals,</hi> and at leaſt as many times a week by
+injunction in our ordinary <hi>Churches;</hi> and now this ſacred
+<hi>Offertory</hi> which by <hi>Act</hi> of <hi>Parliament</hi> was
+<hi>Enjoyned,</hi> by <hi>Ordinance</hi> is <hi>Aboliſhed,</hi> as if it were
+a crime to ſerve <hi>God</hi> in any other forme or method then the two
+Houſes ſhall preſcribe. Inſtead of this <hi>Decency</hi> and
+<hi>
+                  <g ref="char:V">Ʋ</g>niformity,</hi> what <hi>confuſion</hi> is introduced is obvious to
+every man;<pb n="21" facs="tcp:116917:12"/>how theſe divine <hi>Collects</hi> are enforced
+to give place to extempo<g ref="char:EOLhyphen"/>re <hi>Nonſence,</hi> and the admirable compoſed
+<hi>Prayers</hi> extracted out of the moſt patheticall parts of the
+<hi>Scripture,</hi> muſt be baniſhed the <hi>Church,</hi> whilſt
+<hi>Hereſies</hi> and <hi>Blaſphemies</hi> are planted within the walls of
+the <hi>Church,</hi> whereby whole <hi>Congregations</hi> are in<g ref="char:EOLhyphen"/>fected and
+become <hi>Separatiſts</hi> in their tenents. Pious, Religious, and
+<hi>Orthodox</hi> Miniſters are Voted out of their <hi>Free-holds,</hi> and
+violently ejected, becauſe they will not be <hi>perjured,</hi> and conforme
+to worſhip the <hi>Presbyterian Idol,</hi> or the <hi>Independent
+Monſter,</hi> theſe novell <hi>Reformers</hi> would ſet up. And in the
+Cures of theſe <hi>Reverend Divines</hi> for the moſt part, ignorant
+<hi>Non-conformiſts</hi> and factious <hi>Schiſmatiques</hi> are placed, by
+which they have new modell'd the <hi>Church,</hi> and ſetled therein fit
+<hi>Chaplains</hi> for ſuch <hi>Patrons,</hi> who muſt inſtruct the
+people to believe nothing to be <hi>Orthodox</hi> Divinity but what they read
+unto them out of a <hi>Par<g ref="char:EOLhyphen"/>liament Ordinance,</hi> or a City <hi>Diurnall.</hi>
+And if they can but con<g ref="char:EOLhyphen"/>tinue the people in this ſlaviſh Ignorance, to
+forget their duty to <hi>God,</hi> and their <hi>Loyalty</hi> to the
+<hi>King,</hi> and to ſubmit by an <hi>im<g ref="char:EOLhyphen"/>plicite faith</hi> to the power of
+the <hi>Parliament,</hi> then their great work is done; for all their great
+labour is to keep up their <hi>Diana</hi> the <hi>Parliament,</hi> and to keep
+the people from knowing that it is the <hi>Devill</hi> that utters thoſe
+<hi>Oracles</hi> which are vented from that <hi>Shrine.</hi> But ſure the
+Bloud of thoſe <hi>Martyrs</hi> who have ſuffered for good Conſciences,
+and have either dyed in Priſons, or for want been ſtarved abroad, being
+unjuſtly robbed by theſe mercileſſe men of all their Eſtates and
+Lively-hoods; cry loud for venge<g ref="char:EOLhyphen"/>ance, and will one day awaken the patience of
+our long ſuffering God: And draw down his revenging wrath on theſe
+counterfeit <hi>Zealots,</hi> and impious <hi>Hypocrites,</hi> who have indeed
+really no <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> but only make uſe of that ſacred
+<hi>Cloak</hi> to diſguiſe all their <hi>villany.</hi> For what have
+theſe great <hi>Reformers</hi> done, but introdu<g ref="char:EOLhyphen"/>ced <hi>will-worſhip</hi>
+into the <hi>Church,</hi> and <hi>Lawleſneſſe</hi> in the
+<hi>Common<g ref="char:EOLhyphen"/>wealth?</hi> For who can now diſcover the face of any
+<hi>Church</hi> in this Kingdome? where every ſeverall Congregation uſe a
+diſtinct forme of worſhip, and where there is no <hi>Coercive</hi> power to
+compell <hi>
+                  <g ref="char:V">Ʋ</g>niformity</hi> in <hi>Doctrine,</hi> or to puniſh
+<hi>Deformity</hi> in <hi>man<g ref="char:EOLhyphen"/>ners.</hi> The <hi>ſacred Scripture</hi> is
+profaned, and by the <hi>Liberty</hi> each man appropriates to himſelf to
+<hi>Interpret</hi> according to his own<pb n="22" facs="tcp:116917:13"/>
+               <hi>Fancy,</hi> or
+rather to apply that divine writing to ſerve for the advancing his own
+deſignes; the ſenſe thereof is ſo inverted by theſe
+<hi>Scripturiſts,</hi> who uſe it no other wayes then the <hi>Devill</hi>
+did to intrap &amp; circumvent their hearers; ſo that thoſe divine
+<hi>Oracles</hi> which were bequeath'd us, to inſtruct us in the right way to
+<hi>Hea<g ref="char:EOLhyphen"/>ven,</hi> are by theſe lying Prophets become <hi>by-paths</hi> that
+lead to <hi>deſtruction.</hi> Our <hi>Lawes</hi> which are each Subjects
+<hi>Birth-right,</hi> how miſerably are they perverted? what man can now be
+ſecu<g ref="char:EOLhyphen"/>red in his inheritance or poſſeſſion, being ſo enſlaved and
+ſub<g ref="char:EOLhyphen"/>jected to an <hi>Arbitrary</hi> power? when by a Vote of the Houſe of
+<hi>Commons</hi> we are diſpoſſeſſed of all that we enjoy, and if we
+plead our title and appeal to any <hi>Court</hi> of <hi>Judicature,</hi>
+expecting <hi>Juſtice</hi> according to the known <hi>Lawes</hi> of the Land,
+our proceedings are obſtructed by ſome <hi>Order</hi> from the Houſe of
+<hi>Commons,</hi> or one of their <hi>Ordinances,</hi> (of which they have made
+ſo many, that they know not what they have made; and beſides, diverſe of
+them are <hi>contradictory</hi> in themſelves) and by theſe, without
+diſpute, we are debard of our <hi>legall Rights.</hi>
+            </p>
+            <p>This is now our miſerable condition, that we know not what we
+may call our own, or how to preſerve thoſe auncient Inheritances
+deſcended from our <hi>Predeceſſors:</hi> for it is in the power of a
+<hi>Knave</hi> to ſtile an <hi>Honeſt man</hi> and a <hi>Loyall
+Subject</hi> ei<g ref="char:EOLhyphen"/>ther <hi>Malignant</hi> or <hi>Delinquent;</hi> new termes in
+the <hi>Law,</hi> invented this bleſſed <hi>Parliament;</hi> and to informe
+this under-hand to a <hi>Committee,</hi> where himſelf dares not publickly
+appear to avow his <hi>information,</hi> or to be <hi>croſſe
+interrogated</hi> concerning his accuſation; and this is ſufficient to
+turne a man out of all his Eſtate, expoſe his <hi>Wife</hi> and
+<hi>Children</hi> to <hi>beggary,</hi> and no way left to repaire this
+injurious proceeding, but by appealing to them that doe the wrong: whence it is
+probable you may expect equall juſtice, when your Judges have equally divided
+your Eſtate a<g ref="char:EOLhyphen"/>mongſt them: For <hi>Informers</hi> they ſhare with
+<hi>Sequeſtrators, Se<g ref="char:EOLhyphen"/>queſtrators</hi> they ſhare with
+<hi>Committee-men,</hi> and <hi>Committee-men</hi> they ſhare with the
+<hi>Members</hi> of the Houſe, who are their <hi>great Maſters</hi> that
+protect them againſt all <hi>complaints</hi> in the Houſe of
+<hi>Commons;</hi> &amp; thus the honeſt <hi>Country-man,</hi> who knew no
+offence in maintaning his <hi>Allegeance</hi> which he was bred in, and had
+ſworn unto his <hi>King;</hi> is taught by ſuffering to conforme to what he
+<pb n="23" facs="tcp:116917:13"/>underſtands not, nor his rulers declare not, the
+inſcrutable unli<g ref="char:EOLhyphen"/>mitable <hi>Priviledges</hi> of <hi>Parliament:</hi> from
+offending whereof he is no ſooner cleared by ſubmitting to a large Fine,
+but that he is preſently ſubject again to the like miſchief, if he obeyes
+the <hi>Law</hi> of the Land, or the <hi>malice</hi> of his neighbour
+proſecutes him. <hi>Re<g ref="char:EOLhyphen"/>bels</hi> and <hi>Traytors</hi> ſhall be protected
+to rob and plunder by <hi>Ordi<g ref="char:EOLhyphen"/>nance</hi> of <hi>Parliament,</hi> and honeſt
+men and Loyall Subjects ſhall be ruined and deſtroyed for adhering to the
+Eſtabliſhed <hi>Religion</hi> and the known <hi>Lawes.</hi>
+            </p>
+            <p>I will appeal to every honeſt Country-man, whether he were not
+in a much better condition when he was unacquainted with the termes of
+<hi>Plunder, Free-quarter,</hi> and <hi>Contribution,</hi> when he underſtood
+not the iniquity of a <hi>Sequeſtrator</hi> or a <hi>Committee,</hi> but upon
+occaſion of any injury done him, had immediate recourſe to the next
+neighbour, the <hi>Juſtice</hi> of <hi>Peace,</hi> where he complained, and
+had redreſſe according to a known <hi>Law:</hi> When he went to
+<hi>Church,</hi> and knew how to <hi>Pray,</hi> and had <hi>good life</hi> and
+<hi>manners</hi> taught him out of the <hi>Pulpit,</hi> and not <hi>Parliament
+Orders</hi> and <hi>Declarations</hi> read every <hi>Sunday</hi> which he
+underſtands not; when <hi>holy Feaſts</hi> were kept and obſerved, by
+which he was taught the <hi>Hiſtory</hi> of the <hi>Church,</hi> and
+<hi>Martyrologie</hi> of the <hi>Saints,</hi> at which time
+<hi>Hoſpitality</hi> was obſerved, and thereby <hi>Amity</hi> and
+<hi>Friendſhip</hi> maintained and continued amongſt neighbours.</p>
+            <p>Theſe were the <hi>bleſſings</hi> of <hi>peace;</hi> what
+hath ſucceeded inſtead of this, they have freſh in memory: I need not
+particularize, but I am ſure they have, according to the old proverb,
+<hi>removed out of Gods bleſſing into the warme Sunne:</hi> for I am ſure
+they have changed <hi>Peace</hi> and <hi>Plenty</hi> into <hi>Warre</hi> and
+<hi>Poverty:</hi> by which, as they <hi>ſowed,</hi> they are aſſured to
+<hi>reap</hi> the unpleaſant fruits of their labour. I am confident, if men
+are not mad, and poſſeſt with ſuch a ſpirit of <hi>Frenſie,</hi> as
+that they cannot diſcerne between <hi>Good</hi> and <hi>Bad,
+Falſe-hood</hi> and <hi>Truth, Religion</hi> and <hi>Irreligion;</hi> they
+muſt needs confeſſe, that all they have done or acted for <hi>ſix</hi>
+or <hi>ſeaven</hi> yeares laſt paſt, wherein they have complyed with the
+<hi>Parliament,</hi> they have endeavoured to advance <hi>evill,
+falſe-hood,</hi> and <hi>irreligion,</hi> thereby to deſtroy themſelves
+and their Poſte<g ref="char:EOLhyphen"/>rities, and to make themſelves ſlaves to the
+<hi>Arbytrary</hi> wills and<pb n="24" facs="tcp:116917:14"/>powers of the <hi>uſurped
+Authority</hi> of their <hi>fellow-ſubjects;</hi> by which they are not
+maſters of their own Eſtates, but at the wills and pleaſures of thoſe
+they have ſet over them. And let them ingenuouſly judge of their own
+actions, and then they will confeſſe that they have wilfully perjured
+themſelves in forfeiting their <hi>Allegiance</hi> to their
+<hi>Soveraigne,</hi> for no <hi>profit</hi> or <hi>advantage</hi> to
+themſelves, but to render themſelves in a worſe condition of
+<hi>Slavery</hi> and <hi>Vaſſallage</hi> then ever they were in, for now
+they are diſpoſable at the wills and pleaſures of their
+<hi>fellow-ſubjects,</hi> as their abſolute <hi>Vaſſalls</hi> and
+<hi>Slaves,</hi> and can call nothing their own, when they, that is, the
+Houſe of <hi>Commons</hi> have a deſire to call for it. For this is a
+<hi>Maxime</hi> in our new reformed Government, that <hi>all we
+poſſeſſe, belongs to the State, and that when the State bath occaſion
+to make uſe of it, all is at their diſpoſall.</hi> O happy Sub<g ref="char:EOLhyphen"/>jects!
+what a bleſſed Government have you fought for! no doubt the whole
+Chriſtian world will admire your <hi>Ignorance,</hi> but not follow your
+<hi>Example,</hi> for that were to become <hi>fooles</hi> like you, and from
+being Subjects <hi>free</hi> and <hi>happy</hi> under a gracious <hi>King,</hi>
+to make themſelves <hi>Slaves</hi> to their <hi>Fellow-ſubjects,</hi> as
+you have done to M. <hi>Aſh</hi> the <hi>Clothier,</hi> M. <hi>Martin</hi>
+the <hi>Atheiſt,</hi> M. <hi>Blackston</hi> the <hi>Pedler,</hi> M.
+<hi>Birch</hi> the <hi>Carrier,</hi> &amp; thereſt of the Reve<g ref="char:EOLhyphen"/>rend rabble,
+of which the Houſe of <hi>Comons</hi> is now compoſed. Oh you Subjects of
+<hi>England!</hi> if you have any ſenſe of your own miſeries
+<hi>entaile</hi> them not to your <hi>Poſterities,</hi> but at length rouze
+up your ſelves, &amp; ſhake off the ſervile youk you have drawn in,
+returne in zeal to your <hi>God</hi> &amp; his Worſhip, in duty to your
+<hi>King</hi> and his <hi>Juſt Rights,</hi> in love to your <hi>Country</hi>
+and your <hi>Legall liberty</hi> &amp; vindicate your ſelves from thoſe
+aſperſions which now lie heavy on you, and make the <hi>King</hi>
+(according to your <hi>Proteſtation</hi>) a <hi>great</hi> and a
+<hi>glorious</hi> King, your ſelves free from <hi>Slavery;</hi> &amp; make
+the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> know, they are but your <hi>Fellow-ſubjects,</hi>
+truſted by you, and that you will call them to an account, wherein they have
+ex<g ref="char:EOLhyphen"/>ceeded their Commiſſion.</p>
+            <p>And when you dare to become ſo bolde, as to call the
+<hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> to account for their paſt actions; aske them whether you
+gave them any <hi>Authority</hi> to <hi>deſtroy</hi> the <hi>Church,</hi> to
+extirpate <hi>Epiſcopacy,</hi> roote and branch, to aboliſh <hi>Common
+Prayer,</hi> to ex<g ref="char:EOLhyphen"/>clude<pb n="25" facs="tcp:116917:14"/>you from the <hi>bleſſed
+Sacraments</hi> of <hi>Baptiſme</hi> and the <hi>Lords Supper,</hi> to
+introduce a forme of <hi>Marrying</hi> and <hi>Burying</hi> into the
+<hi>Church,</hi> fitter for <hi>Pagans</hi> then <hi>Chriſtians,</hi> to
+remove the <hi>Ten Comandements,</hi> written with the <hi>Finger</hi> of
+<hi>God,</hi> out of the <hi>Church,</hi> and to place inſtead thereof, their
+new-invented damned <hi>Cove<g ref="char:EOLhyphen"/>nant?</hi> After them, whether you gave them
+<hi>Authority</hi> to levy <hi>War</hi> againſt your <hi>King,</hi> and to
+purſue Him, and endeavour to <hi>kill</hi> Him, becauſe He would not
+<hi>perjure</hi> Himſelf by taking that <hi>Covenant,</hi> contrary to the
+<hi>Oath</hi> He took at His <hi>Coronation?</hi> Whether you gave them
+<hi>Authority</hi> to <hi>impriſon</hi> Him, &amp;c? Aske them, whether you
+gave them <hi>Authority</hi> to overthrow all <hi>Lawes,</hi> according to
+their <hi>will</hi> and <hi>pleaſure,</hi> and to uſurpe to themſelves,
+nay, to <hi>exceede</hi> Regall power, and to <hi>diſpoſe</hi> of your
+<hi>Perſons</hi> and <hi>Eſtates</hi> as they think fit? Ask them for an
+<hi>account</hi> of all the <hi>Mony</hi> they have raiſed out of your
+Eſtates? Ask them concer<g ref="char:EOLhyphen"/>ning all things that have been done amiſſe in
+the Kingdome du<g ref="char:EOLhyphen"/>ring their raigne, either by their <hi>command</hi> or
+<hi>tolleration;</hi> and if they cannot give you very good ſatisfaction in
+all the particulars, proceed againſt them as guilty of the breach of the
+truſt you re<g ref="char:EOLhyphen"/>poſed in them, and puniſh them according to their deſerts;
+or if in <hi>Clemency</hi> you think fit to pardon them, at leaſt remove them
+from their Rule and Government; and let not thoſe, who have ſo ill behaved
+themſelves in the diſcharge of their truſt, be any longer employed by
+you, but humbly deſire His Majeſty to call another <hi>Parliament,</hi> and
+deſire that you may have free leave to chuſe <hi>new Members,</hi> in
+whoſe honeſty you have better hopes. This may be a way to re-ſetle the
+Kingdome, and reſtore our <hi>Peace,</hi> elſe we ſhall all be
+miſerable: for if theſe <hi>Parliament men</hi> continue to governe us, who
+have deſigned themſelves <hi>Princes,</hi> and us their <hi>Slaves,</hi>
+what can we expect but by our own conſents, to be made deſpicable?</p>
+            <p>It was the cunning of the <hi>Church</hi> of <hi>Rome</hi> when
+ſhe intended to become <hi>Catholique,</hi> &amp; rule over all her
+<hi>ſiſter Churches,</hi> when ſhe introduced novell
+<hi>ſuperſtitions</hi> which ſhe was taxed for, and could not juſtifie;
+She ſtill maintained her <hi>errors</hi> by the power ſhe in<g ref="char:EOLhyphen"/>veſted her
+ſelf withall, which was, that what the <hi>Church</hi> declared either in
+<hi>doctrine</hi> or <hi>diſcipline,</hi> ought not to be
+<hi>contradicted</hi> or <hi>diſpu<g ref="char:EOLhyphen"/>ted,</hi>
+               <pb n="26" facs="tcp:116917:15"/>for the
+<hi>Church</hi> of <hi>Rome</hi> was the ſole <hi>interpreter</hi> of
+<hi>Scriptures,</hi> and where they were not able by their <hi>gloſſes</hi>
+and <hi>interpretations,</hi> to juſtifie and defend their <hi>Tenents,</hi>
+they had un-written <hi>tra<g ref="char:EOLhyphen"/>dictions,</hi> which on all occaſions ſupported
+their <hi>doctrines.</hi>
+            </p>
+            <p>Is it not ſo with the <hi>Parliament,</hi> I meane the Houſe
+of <hi>Com<g ref="char:EOLhyphen"/>mons,</hi> for that uſurpes the whole power of the
+<hi>Parliament,</hi> (the <hi>Lords</hi> being become no <hi>ciphers</hi> but
+<hi>blankes</hi> in their <hi>accounts</hi>) doe not they inveſt themſelves
+with a <hi>Soveraigne power,</hi> apropriating <hi>ſole dominion</hi> unto
+themſelves, and that nothing is <hi>Law,</hi> but what they declare to be
+ſo? and if any act of theirs be queſtioned to be done <hi>contrary</hi> to
+the knowne <hi>Law,</hi> have they not an <hi>unknowne Law,</hi> one of their
+<hi>unwritten verities,</hi> which are as neceſſary and uſefull as the
+<hi>Popiſh traditions,</hi> to juſtifie them in their <hi>erronious</hi>
+proceeding? have they not their <hi>Parliament priviledges,</hi> which is their
+<hi>Catholocon,</hi> a <hi>medicine</hi> for all diſeaſes, a principall
+help at <hi>Mawe,</hi> by which they alwayes with the <hi>prize,</hi> for by
+vertue of this miſtery of iniquity, they defend and maintaine all their
+ille<g ref="char:EOLhyphen"/>gall actions, and are protected from all inquiry into their procee<g ref="char:EOLhyphen"/>dings,
+by telling the people <hi>it is a breach of their Priviledges.</hi>
+            </p>
+            <p>But I wiſh the ſame courſe were taken with the
+<hi>Parliament,</hi> that our <hi>Proteſtant Divines</hi> tooke with the
+<hi>Church</hi> of <hi>Rome,</hi> to enquire when thoſe
+<hi>ſuperſtructures</hi> were built in the <hi>Church,</hi> ſo when
+theſe <hi>Priviledges</hi> were begotten in the <hi>Parliament;</hi> and then
+it would appear, that thoſe <hi>priviledges</hi> were <hi>illegitimate,</hi>
+be<g ref="char:EOLhyphen"/>gotten by <hi>Rebellious parents,</hi> and nurs'd up in <hi>factious</hi>
+times, and that the <hi>Law</hi> of the Land neither ownes them, nor knowes
+them. Let the <hi>Parliament</hi> be required to produce ſome good authors,
+that have aunciently written concerning their <hi>fundamentall Laws,</hi> which
+they ſo often mention, and of their <hi>unbounded Priviledges,</hi> which
+they ſo often make uſe of: that the people may know that they are not their
+owne inventions, that they are not fictions and <hi>chimaer as</hi> to delude
+the vulgar, and to <hi>diſguiſe</hi> the <hi>truth,</hi> and bluſter out
+their owne <hi>iniquities:</hi> Let them ſhew how an <hi>Ordinance</hi>
+be<g ref="char:EOLhyphen"/>comes a <hi>Law,</hi> or is able to deſtroy the <hi>Law:</hi> Let them
+declare where that <hi>priviledge</hi> is that protects a <hi>Parliament</hi>
+man to com<g ref="char:EOLhyphen"/>mit <hi>Fellony,</hi> or <hi>Treaſon,</hi> and that it is a
+<hi>breach</hi> of <hi>priviledge</hi> to in<g ref="char:EOLhyphen"/>dict him for it. Let them produce
+<hi>Records</hi> that are authenticall,<pb n="27" facs="tcp:116917:15"/>that divdes the
+<hi>power</hi> from the <hi>Perſon</hi> of the <hi>King,</hi> and
+<hi>incorporates</hi> that <hi>Power</hi> into the Houſe of <hi>Commons.</hi>
+Let them ſhew in any times that the Houſe of <hi>Commons</hi> ever
+diſpoſed of the <hi>Militia</hi> of the Kingdome, uſurp'd authority to
+make <hi>Peace</hi> or <hi>War,</hi> and to contract leagues with forraigne
+States, to condemne or pardon, to make Judges to diſpoſe of the <hi>Kings
+Revenue,</hi> to Impriſon the <hi>King</hi> Himſelfe, &amp;c. Nay was it
+ever heard or read of, that a <hi>Speaker</hi> of the Houſe of
+<hi>Commons,</hi> an inconſiderable contempti<g ref="char:EOLhyphen"/>ble perſon for his birth and
+breeding, ſhould arrogate to himſelf, and aſſume by the permiſſion
+of that Houſe the <hi>enſignes</hi> of <hi>Regall Authority,</hi> and
+uſurpe the <hi>Kings Chaire</hi> and cloth of <hi>State,</hi> and give
+publique <hi>audience</hi> to <hi>Ambaſſadours?</hi> Oh unheard-of
+<hi>arro<g ref="char:EOLhyphen"/>gance,</hi> never to be parallel'd by precedent or future
+preſidents, and cannot be exceeded, unleſſe by that of the
+<hi>Devill</hi> who at<g ref="char:EOLhyphen"/>tempted to be <hi>like</hi> the <hi>higheſt.</hi>
+            </p>
+            <p>Let theſe <hi>exorbitances</hi> ſuffice to put the Kingdome in
+minde what <hi>preſſures</hi> have been put upon them, what
+<hi>uſurpations</hi> the <hi>two Houſes,</hi> (but eſpecially the Houſe
+of <hi>Commons</hi>) have injuſtly <hi>arrogated</hi> to themſelves, and
+then let them conſider how they are rob'd of their <hi>juſt rights,</hi>
+and into what a <hi>ſlavery</hi> they are inthral'd, and whether they have
+not <hi>ſlept</hi> thoſe years paſt, whilſt the <hi>De<g ref="char:EOLhyphen"/>vil</hi> and his
+inſtruments have ſown theſe <hi>tares</hi> amongſt their good
+<hi>corne,</hi> and ſo ſpoil'd the plentifull <hi>harveſt,</hi> they
+hoped to <hi>reape</hi> by this <hi>Parliament;</hi> and that they muſt be
+compell'd to hazard to pluck up the <hi>tares,</hi> though therewith the good
+<hi>corne</hi> be endange<g ref="char:EOLhyphen"/>red, for the field muſt be clenſed, to ſow and
+prepare for a new <hi>crop,</hi> elſe in a ſhort time the people of this
+Kingdome will be <hi>ſtar<g ref="char:EOLhyphen"/>ved</hi> for want of <hi>Bread.</hi>
+            </p>
+            <p>I could enlarge my ſelfe further on this ſubject, for there is
+no want of matter to ſwell this diſcourſe into a volume, but I
+reſol<g ref="char:EOLhyphen"/>ved not to make my Country-men more miſerable, by enumera<g ref="char:EOLhyphen"/>ting too
+many of their <hi>miſeries,</hi> or by paraphraſing on them,
+<hi>Rhe<g ref="char:EOLhyphen"/>torically</hi> argue them into too deep a ſenſe of their
+<hi>Sufferings;</hi> it ſhall ſuffice me, if they become ſenſible of
+their preſent condition, and thereby endeavour a <hi>Manumiſſion</hi>
+from their <hi>Slavery,</hi> that they remember what they <hi>were,</hi> what
+they <hi>are,</hi> and what they ought to <hi>be,</hi> and as true borne
+<hi>Engliſh-men,</hi> ſhake off their<pb n="28" facs="tcp:116917:16"/>
+               <hi>Fetters,</hi>
+with the ſame hands they have impoſed them, <hi>depoſe</hi> the
+<hi>Tyrant Parliament,</hi> and <hi>Re-inthrone</hi> their <hi>lawfull
+Soveraigne,</hi> expell <hi>Rebellious Presbytery,</hi> and eſtabliſh
+<hi>moderate</hi> and <hi>limited Epiſcopacy,</hi> provide for tender
+<hi>conſciences</hi> who will conforme in <hi>obedience</hi> to <hi>Civill
+Magiſtracy,</hi> and then no doubt we ſhall re<g ref="char:EOLhyphen"/>turne to a ſetled
+<hi>Government,</hi> and <hi>Peace</hi> will be reſtored with
+<hi>plenty,</hi> and we ſhall againe be a happy and united people, as
+for<g ref="char:EOLhyphen"/>merly, under our gracious <hi>King,</hi> whom <hi>God</hi> preſerve.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116917:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
